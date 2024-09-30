@@ -21,3 +21,9 @@ if x < 3:
 ``` javascript
 console.log("Hmm markdown is kinda fun!")
 ```
+
+## Making task list exercise
+
+- [x] Write acceptance criteria
+- [ ] Write test scenarios
+- [ ] Assign Anirud this task
