@@ -4,3 +4,8 @@
 
 
 Testing some header syntax for markdown file.
+
+
+## Image adding exercise
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
